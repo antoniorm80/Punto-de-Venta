@@ -24,7 +24,7 @@ function App() {
         message.success('Pero, ¿Porqué lo tienes TODO, Bb?');
       }else{
         // alert('éallleeee!, capture los datos');
-        message.warning('éallleeee!, capture los datos, hermotza');
+        message.warning('éallleeee! captura tus datos Baby!');
       }
     } catch (error) {
       console.log(error.message)
